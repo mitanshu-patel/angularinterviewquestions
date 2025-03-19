@@ -1,9 +1,5 @@
 # Angular Interview Questions & Answers
 
-> This content is by [@SudheerJonna](https://twitter.com/SudheerJonna), would recommend to follow him for technical updates. 
-
----
-
 ### Table of Contents
 
 | No. | Questions |
